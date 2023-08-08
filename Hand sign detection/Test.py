@@ -13,7 +13,7 @@ offset = 20
 imgSize = 500
 
 
-labels = ["A","B","C","1","2","7","Thumbs-Up"]
+labels = ["A","B","C","Fuck-Off","2","7","Thumbs-Up"]
 
 
 while True:

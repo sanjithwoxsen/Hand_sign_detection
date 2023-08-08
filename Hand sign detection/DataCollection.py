@@ -1,5 +1,4 @@
 import math
-
 import cv2
 import numpy as np
 from cvzone.HandTrackingModule import HandDetector
@@ -13,7 +12,7 @@ counter = 0
 offset = 20
 imgSize = 500
 
-folder = "Data/Thumbs-Up"
+folder = "Data/A"
 
 
 while True:
